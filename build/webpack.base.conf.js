@@ -23,6 +23,7 @@ module.exports = {
         alias: {
             'src': resolve('src'),
             'common': resolve('src/common'),
+            'components': resolve('src/components')
         }
     },
     module: {
